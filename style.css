@@ -25,7 +25,7 @@ body {
 }
 
 .card-one, .card-two {
-    padding: 20px;
+    padding: 30px;
 }
 
 .card-one {
@@ -49,13 +49,13 @@ h2 {
 }
 
 .contact-box > div, .skills-box > div {
-    margin: 15px 0;
+    margin: 25px 0;
     display: flex;
     align-items: center;
 }
 
 .contact-box i, .skills-box div {
-    margin-right: 10px;
+    margin-right: 20px;
 }
 
 section {
