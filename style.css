@@ -57,6 +57,19 @@ h2 {
 .contact-box i, .skills-box div {
     margin-right: 20px;
 }
+.skills-box {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Adjust the spacing between each skill item */
+}
+
+.skill-item {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    margin-bottom: 10px;
+    word-wrap: break-word; /* Ensures long words or URLs wrap to the next line */
+}
 
 section {
     margin-top: 20px;
